@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO AND TITLE -->
 <p align="center">
   <a href="https://shakirasa.github.io/Data-mapped-knowledge-graph-case-study/#/">
-    <img src="images/logo-github.png" alt="Logo" align="right" height="328">
+    <img src="logo-github.png" alt="Logo" align="right" height="328">
   </a>
 
   <h2 align="left">Mapping knowledge graphs- case study </h2>
