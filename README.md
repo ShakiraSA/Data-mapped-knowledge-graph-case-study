@@ -1,11 +1,11 @@
 
 <!-- PROJECT LOGO AND TITLE -->
 <p align="center">
-  <a href="https://github.com/ShakiraAgata/Epigenetic-AOP-network-web-application">
+  <a href="https://shakirasa.github.io/Data-mapped-knowledge-graph-case-study/#/">
     <img src="images/logo-github.png" alt="Logo" align="right" height="328">
   </a>
 
-  <h2 align="left">Mapping knowledgegraphs</h2>
+  <h2 align="left">Mapping knowledge graphs- case study </h2>
 </p>
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
